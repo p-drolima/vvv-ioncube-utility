@@ -1,4 +1,4 @@
-# Ioncube VVV utility
+# Ioncube VVV utility - UPDATED TO WORK WITH PHP 7.2
 
 Ioncube utility for VVV
 
